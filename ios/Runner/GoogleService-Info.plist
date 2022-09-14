@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>406829275867-7dddesd0kvjgkoln152cesu8rpemaov7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.406829275867-7dddesd0kvjgkoln152cesu8rpemaov7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>406829275867-o8qb26unab6vi09248dr816qdossnobe.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2UM4cs1EesmcJ0VUp2GDTn6taCC_tPwQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>406829275867</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.paisagrow.fluttermet</string>
+	<key>PROJECT_ID</key>
+	<string>pfluttermet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pfluttermet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:406829275867:ios:97981bc89a8b9a580d0afe</string>
+</dict>
+</plist>

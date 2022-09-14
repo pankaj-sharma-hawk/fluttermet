@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "406829275867",
+    "project_id": "pfluttermet",
+    "storage_bucket": "pfluttermet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406829275867:android:eca306c55a8cf01e0d0afe",
+        "android_client_info": {
+          "package_name": "com.mycompany.pfluttermet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406829275867-o8qb26unab6vi09248dr816qdossnobe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pfluttermet",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "406829275867-sp6rh86at0s7n2aqmah7o6vhp43ck7c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwgZomXrY1MOzmYWD4dizq_vhgK3l-swA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406829275867-sp6rh86at0s7n2aqmah7o6vhp43ck7c2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406829275867-7dddesd0kvjgkoln152cesu8rpemaov7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.paisagrow.fluttermet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406829275867:android:cd305f6f0ddbe4900d0afe",
+        "android_client_info": {
+          "package_name": "com.paisagrow.fluttermet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406829275867-sp6rh86at0s7n2aqmah7o6vhp43ck7c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwgZomXrY1MOzmYWD4dizq_vhgK3l-swA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406829275867-sp6rh86at0s7n2aqmah7o6vhp43ck7c2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406829275867-7dddesd0kvjgkoln152cesu8rpemaov7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.paisagrow.fluttermet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
